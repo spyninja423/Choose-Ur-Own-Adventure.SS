@@ -1,0 +1,9 @@
+print("Welcome to the Choose Your Own Adventure Game including warfare strategies of Ancient Civilizations, mainly going to be focused on Ambush, Charge, & Feint.")
+print("You are a commander choosing what strategies your soldiers need to do to eliminate your opponent.")
+print("What Ancient Civilization do you want to choose from these starting choices?")
+### Prompt user for a choice
+ancientcivilizationsChoice = Input("> ")
+if(ancientcivilizationsChoice == "Inca"): 
+elif(ancientcivilizationsChoice == "India"):
+elif(ancientcivilizationsChoice == "Athens"):
+else(): print("Invalid Choice! Please enter one of the three choices from the following.")
